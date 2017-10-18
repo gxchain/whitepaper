@@ -74,6 +74,8 @@ base\_fee：不考虑贡献比的基准手续费，即全局参数中操作的�
 
 公信宝Dapp
 
+[zh/gxbDapp-whilepaper.md](/zh/gxbDapp-whilepaper.md "公信宝DApp白皮书")
+
 ### **四、面向企业用户的**
 
 #### 1.**去中心化数据交易所**

@@ -16,7 +16,7 @@ DPoS\(Delegated Proof of Stake\)机制，源自于Graphene，中文名叫做股�
 
 PoCS\(Proof of Credit Share\)机制，是公信链自主设计开发的共识机制，中文名叫做信用贡献证明机制\(又称共享交换平衡机制\)，⽤来解决数据体量悬殊企业之间的联盟共享不平等问题。
 
-
+实现思路
 
 3.公信链的竞争优势
 

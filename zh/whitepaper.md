@@ -22,19 +22,19 @@ PoCS\(Proof of Credit Share\)机制，是公信链自主设计开发的共识机
 ```
 if (total_sell + total_buy)>= pocs_threshold){ 
 
-pocs = (total_sell - total_buy) / (total_sell + total_buy);
+  pocs = (total_sell - total_buy) / (total_sell + total_buy);
 
-fee = base_fee * (1 - pocs) ; 
+  fee = base_fee * (1 - pocs) ; 
 
-if（total_sell < total_buy）{ 
+  if（total_sell < total_buy）{ 
 
-fee = fee * fee_base; 
+    fee = fee * fee_base; 
 
-}
+  }
 
 }else{
 
-fee = base_fee;
+  fee = base_fee;
 
 }
 ```

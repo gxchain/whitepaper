@@ -80,6 +80,8 @@ base\_fee：不考虑贡献比的基准手续费，即全局参数中操作的�
 
 去中心化数据交易所
 
+[zh/dataExchange-whitepaper.md](/zh/dataExchange-whitepaper.md "去中心化数据交易所白皮书")
+
 #### 2.**公信宝Dapp企业版**
 
 公信宝Dapp企业版
@@ -105,8 +107,6 @@ BAAS-API
 #### 5.**统计分析系统**
 
 统计分析系统
-
-
 
 ### 六、发展规划路线图
 

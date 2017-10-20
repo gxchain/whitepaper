@@ -125,7 +125,8 @@
 
 公信宝采⽤以下两种⽅式解决数据膨胀问题：
 
-公信链采取和graphene⼀样的witness和light-wallet分离的机制，需要同步全 部账本的节点可以运⾏witness（full node），⽽⼤部分⽤户则只需要运⾏⼏⼗M的lightwallet即可，light-wallet可以链接到任何⼀个witness，⽽公信链在light-wallet上做了更近 ⼀步的开发（参考6.1说明），开发了⼤量JSON-RPC，商户购买数据和数据源接⼊以及联 盟市场都只需要对light-wallet做接⼝开发即可，不再强制依赖witness。当然如果有些商户希望同步full node，则可以在商户⾃⼰的服务器上安装witness，让right-wallet链接上这个 节点即可。
+公信链采用区块和功能分离的设计，重钱包(witness_node)同步区块，轻钱包(gxb-light)与数据交易盒子(gxb-box)对接业务，需要同步全部账本的节点可以运⾏witness_node，这是一个全qu考虑节点的客户端，而普通商户只需要使用
+节点和轻钱包(witness)和轻钱包()和gxb-box分离的机制，需要同步全 部账本的节点可以运⾏witness（full node），⽽⼤部分⽤户则只需要运⾏⼏⼗M的lightwallet即可，light-wallet可以链接到任何⼀个witness，⽽公信链在light-wallet上做了更近 ⼀步的开发（参考6.1说明），开发了⼤量JSON-RPC，商户购买数据和数据源接⼊以及联 盟市场都只需要对light-wallet做接⼝开发即可，不再强制依赖witness。当然如果有些商户希望同步full node，则可以在商户⾃⼰的服务器上安装witness，让right-wallet链接上这个 节点即可。
 
 公信链上仅存储数据交易摘要、凭证、数字版权以及其它交易所需要依赖的⼀ 些基础信息，并不保存交易的源数据和加密后的源数据，不仅缩小了交易的⼤⼩，也杜绝 了爆破加密算法后得到账本数据的⻛险。
 

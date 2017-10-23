@@ -76,7 +76,7 @@ base\_fee：不考虑贡献比的基准手续费，即全局参数中操作的�
 
 公信链以及相关代码已经在Github上完全开源。
 
-[https://github.com/gxchain](https://github.com/gxchain)
+开源地址 [https://github.com/gxchain](https://github.com/gxchain)
 
 #### **4.公信链技术架构**
 

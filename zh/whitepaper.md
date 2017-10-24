@@ -142,7 +142,6 @@ base\_fee：不考虑贡献比的基准手续费，即全局参数中操作的�
 **原生API：**  
 命令行钱包中包含很多区块链的原生API，通过原生API可以发起。
 
-  
 更多细节可关注开发者社区论坛  
 [https://forum.gxb.io/](https://forum.gxb.io/)
 

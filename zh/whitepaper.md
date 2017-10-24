@@ -155,8 +155,6 @@ base\_fee：不考虑贡献比的基准手续费，即全局参数中操作的�
 
 [https://block.gxb.io/\#/](https://block.gxb.io/#/)
 
-
-
 ### 六.发展规划路线图
 
 ### 七.团队介绍

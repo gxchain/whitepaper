@@ -152,7 +152,9 @@ base\_fee：不考虑贡献比的基准手续费，即全局参数中操作的�
 #### 5.**区块浏览器**
 
 区块l浏览器实现了区块、交易记录和账户信息的功能,同时提供了网页和API两个两种方式进行查询, 不同的用户可以根据不同的需求进行选择。
-[https://block.gxb.io/#/](https://block.gxb.io/#/)
+
+  
+[https://block.gxb.io/\#/](https://block.gxb.io/#/)
 
 ### 六.GXC和GXS的介绍
 

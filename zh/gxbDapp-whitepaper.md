@@ -110,10 +110,7 @@ KYC的全名为Know your customer（即充分了解你的客户）,公信宝Dapp
 
 ![](/assets/p1.png)![](/assets/p2.png)![](/assets/p3.png)
 
-![](/assets/p4.png)![](/assets/p5.png)![](/assets/p6.png)  
-
-
-
+![](/assets/p4.png)![](/assets/p5.png)![](/assets/p6.png)
 
 ### 四.技术架构
 
@@ -141,7 +138,7 @@ KYC的全名为Know your customer（即充分了解你的客户）,公信宝Dapp
 
 #### 2.团队建设
 
-在团队方面，公信宝团队已经成功实现过多个基于区块链的项目开发，同时团队又拥有多年互联网产品开发的经验。人才条件也是成功的基础，截止编写文档时，公信宝团队有26人，其中技术开发人员占60%（团队成员拥有C++、NodeJS、Java、IOS、Android、Python等语言的丰富开发经验），在区块链和应用开发方面都具有丰富的经验，具体请参考GXS官网 https://gxs.gxb.io 。
+在团队方面，公信宝团队已经成功实现过多个基于区块链的项目开发，同时团队又拥有多年互联网产品开发的经验。人才条件也是成功的基础，截止编写文档时，公信宝团队有26人，其中技术开发人员占60%（团队成员拥有C++、NodeJS、Java、IOS、Android、Python等语言的丰富开发经验），在区块链和应用开发方面都具有丰富的经验，具体请参考GXS官网 [https://gxs.gxb.io](https://gxs.gxb.io) 。
 
 ### 六.公信宝的愿景
 
@@ -151,15 +148,13 @@ KYC的全名为Know your customer（即充分了解你的客户）,公信宝Dapp
 
 #### **1.视频地址**
 
-https://www.youtube.com/watch?v=lDyQty1\_--A&feature=youtu.be
+[https://www.youtube.com/watch?v=lDyQty1\_--A&feature=youtu.be](https://www.youtube.com/watch?v=lDyQty1_--A&feature=youtu.be)
 
-https://v.qq.com/x/page/o05538toa4o.html
+[https://v.qq.com/x/page/o05538toa4o.html](https://v.qq.com/x/page/o05538toa4o.html)
 
 #### **2.引用文件**
 
 众筹金融研究院:《[杨东教授：我国个人征信业务发展的困惑与解答](http://toutiao.manqian.cn/wz_ct9ZeVFDDz.html)》
 
 新浪财经:《[个人征信试点遇“冷水” 机构或将联合持牌](http://finance.sina.com.cn/roll/2017-05-06/doc-ifyeychk7064477.shtml)》
-
-
 

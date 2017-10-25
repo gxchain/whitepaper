@@ -29,9 +29,8 @@ if (total_sell + total_buy)>= pocs_threshold){
   if（total_sell < total_buy）{ 
 
     fee = fee * fee_base; 
-
+    
   }
-
 }else{
 
   fee = base_fee;

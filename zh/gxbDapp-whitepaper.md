@@ -108,9 +108,11 @@ KYC的全名为Know your customer（即充分了解你的客户）,公信宝Dapp
 
 #### 7.视觉设计效果图
 
-  
-  
 
+
+![](/assets/p1.png)![](/assets/p2.png)![](/assets/p3.png)
+
+![](/assets/p4.png)![](/assets/p5.png)![](/assets/p6.png)
 
 
 

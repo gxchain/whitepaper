@@ -148,9 +148,9 @@ KYC的全名为Know your customer（即充分了解你的客户）,公信宝Dapp
 
 #### **1.视频地址**
 
-[https://www.youtube.com/watch?v=lDyQty1\_--A&feature=youtu.be](https://www.youtube.com/watch?v=lDyQty1_--A&feature=youtu.be)
+youtube:[https://www.youtube.com/watch?v=lDyQty1\_--A&feature=youtu.be](https://www.youtube.com/watch?v=lDyQty1_--A&feature=youtu.be)
 
-[https://v.qq.com/x/page/o05538toa4o.html](https://v.qq.com/x/page/o05538toa4o.html)
+youku:[https://v.qq.com/x/page/o05538toa4o.html](https://v.qq.com/x/page/o05538toa4o.html)
 
 #### **2.引用文件**
 

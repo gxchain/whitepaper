@@ -30,21 +30,15 @@ PoCS\(Proof of Credit Share\)机制，是公信链自主设计开发的共识机
 PoCS和交易手续费实现原理的**伪代码**如下：
 
 ```
-if ((total_sell + total_buy)>= pocs_threshold){ 
+if ((total_sell + total_buy) >= pocs_threshold) {
 
-  pocs = (total_sell - total_buy) / (total_sell + total_buy);
+    pocs = calculate_pocs(total_sell, total_buy);
 
-  fee = base_fee * (1 - pocs) ; 
+    fee = scale_fee(pocs, data_transaction_base_fee);
 
-  if（total_sell < total_buy）{ 
+} else {
 
-    fee = fee * multi_base; 
-
-  }
-}else{
-
-  fee = base_fee;
-
+    fee = data_transaction_base_fee;
 }
 ```
 

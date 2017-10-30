@@ -1,4 +1,4 @@
-# whitepaper
+# GXChain whitepaper
 
 [zh/whitepaper.md](/zh/whitepaper.md)
 

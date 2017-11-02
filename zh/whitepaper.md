@@ -88,7 +88,7 @@ PoS机制下较为成熟的数字货币是Peercoin（点点币）和NXT（未来
 
 **BaaS服务**
 
-公信链还提供一些如存储和验证类BAAS\(区块链即服务：Blockchain as a Service\)接口的支持，开发者根据丰富的BAAS-API、数据交易API、原生API开发出充满实际价值意义的区块链应用。
+公信链还提供一些如存储和验证类BaaS\(区块链即服务：Blockchain as a Service\)接口的支持，开发者根据丰富的BAAS-API、数据交易API、原生API开发出充满实际价值意义的区块链应用。
 
 **基于公信链的应用开发**
 

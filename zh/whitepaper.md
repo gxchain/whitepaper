@@ -58,7 +58,7 @@ pocs\_threshold：产品阈值，若当前账户买卖总次数大于等于此�
 
 data\_transaction\_base\_fee：不考虑贡献比的基准手续费，即全局参数中操作的手续费。
 
-calculate\_pocs：根据买卖数据次数计算pocs。
+calculate\_pocs：根据买卖数据次数计算PoCS。
 
 scale\_fee：根据pocs调整交易手续费。
 

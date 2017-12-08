@@ -55,7 +55,7 @@ calculate_pocs is the function to calculate PoCS score.
 
 scale_fee is the function to calculate transaction fee.
 
-#### **Reasons to choose delegate proof of stack(DPoS)**
+#### **III.Reasons to choose DPoS consensus algorithm**
 
 Currently, most projects employed PoW and PoS as their consensus algorithm, and some projects used modified BFT. Bitcoin, the most successful cryptocurrency based on PoW, demonstrating the stability and fairness of PoW algorithm. However, bitcoin is often criticized by its energy intensive mining activity. Billions of Dollars are investing to perform calculation SHA256 for maintain the network, and besides that, no other utilization was involved in this activity. In addition, current transaction speed of bitcoin is 5 times/second, limited by its controversial block size, and 25 times/sec for another famous project, Ethereum, hindered by maximum GAS of single block. These numbers are far from VISA and Mastercard, that able to deal with thousands of transactions per second.
 
@@ -65,7 +65,7 @@ Under PoS Consensus, people tend to lock coins for a long time to get more retur
 
 DPoS could inherently overcome drawbacks of PoW and PoS in processing efficiency. DPoS algorithm require verification of current block has been signed by a trusted node before generating next block. DPoS employs a committee mechanism to choose trustable nodes(witnesses), who representing other token holders for bookkeeping. Witnesses are required to remain online for long time, solving the block generation delay problems occurred on blockchains based on PoS. Usually DPoS is capable of processing 10000-100000 transactions per second, depending on the network quality, which is suitable for industrial applications. GXB data exchange platform requires high transaction frequency and network stability, making DPoS is an exclusive choice.
 
-#### **4.Features of GXChain**
+#### **IV.Features of GXChain**
 
 **High-performance and expandable**
 
@@ -94,10 +94,122 @@ GXChain allows individuals and companies to create and issue their own tokens.
 
 We made GXChain code open to public at [https://github.com/gxchain](https://github.com/gxchain)
 
-#### **5.Technical structure**
+#### **V.Technical structure**
 
 ![](/assets/ta1.png)
 
-#### **6.Application structure**
+#### **VI.Application structure**
 
 ![](/assets/aa2.png)
+
+### **1.For individual**
+
+### **Wallet**
+
+Wallet is for asset management on GXChain, we developed wallets for PC, mobile, web browser, and command line. For PC, Windows 32/64 Bit, Linux, and Mac OS supported. For mobile, IOS and Android supported, besides digital asset storage, mobile wallet will support real time price display from exchange in the future. Wallet on web browser is for online usage, supporting all functions compared with PC wallet. Command line wallet is more sophisticated for advanced user or developer. 
+
+### **DApp**
+
+Dapp is for personal credit management, designed by GXB core developers. It could realize face to face credit verification and personal information management. After acquired targets authorization, one can check their credit information via GXB data exchange to easily achieve face to face credit evaluation. This application could broadly apply to recruiting, dating, renting, lending, over the counter trading etc.
+
+### **2.For company**
+
+### **Decentralized data exchange**
+
+GXB team built a decentralized data exchange based on GXChain, personal data will not be cached on the exchange, protecting privacy of customers. In addition, GXB data exchange protects data copyright, prevents data fraud, and supports bilateral anonymity, which could be applied to various field, including personal loan, auto loan, banks, institutions, insurance, healthcare, credit bureau, logistics etc. GXB data exchange solved persistent problems in above industry for data transfer, circulation, and exchange in a decentralized and safely way, releasing the value of data for developing more applications which aim for improving quality of life of people. 
+
+### **DApp enterprise version**
+
+Personal credit verification making GXB Dapp suitable for job interview, renting, second-hand transactions, and over the counter transactions. We planned to develop a web based software for enterprises to verify credit information from individuals.
+
+### **3.For Developers**
+
+GXChain supports app development using opened API, including data exchange, BaaS, Cli-wallet, statistical analysis, and blockchain explorer. Data exchange API will allow developers to use all interface from data exchange after installing GXB-BOX. BaaS API is for data storage, object-based storage, and verification, Cli-wallet API enable use command-line wallet, which could visit ledger and transfer directly. Statistical analysis API helps to develop further computing and visualization functions. Blockchain explorer API enable checking various information, including block, transaction, account information, and support developers to using web and API manners https://block.gxb.io/#/. 
+
+For more details and events for developers, visit [https://forum.gxb.io/](https://forum.gxb.io/)
+
+#### **VII.GXC and GXS**
+
+GXC is for companies and individuals enrolled at data exchange to trade data. The conversion rate is always 1 GXC equals 1 CNY. 
+GXShares (GXS) is the cryptocurrency on GXChain, issued by GXB team. GXS has the following values:
+•	GXS is the unique token on GXChain, it would be consumed/burned for app development, certification, and service will cost.
+•	GXB team will use 10% of the income from Data Exchange to buyback and destroy GXS every 3 months. One can expect data exchange would yield more income as more companies and data sources employ the exchange.
+•	GXS could be used as ballot paper for voting witnesses.
+•	User can attend GXB loyalty program for 4-8% APY passive income.
+
+**GXS Token distribution**
+
+•	Total supply: 100,000,000.
+•	Circulating supply: 40,510,000.
+•	ICO amount: 24,510,000.
+•	Private equity distributed amount: 10,000,000.
+•	GXB foundation: 51,000,000.
+•	GXS hold by GXB foundation is limited for circulation, released 6,000,000 for the first year, the funds will be used for hiring, community development, marketing, and business development, and will release for maximum 5,000,000 annually until total supply amount reached. 
+
+**GXS Buyback**
+
+GXB team will use 10% commission from data exchange to buyback GXS, which will be transferred to the buyback account for destruction permanently, nobody, including our company, have the private key. We will make sure this procedure transparent and open, one could check it through blockchain explorer, and the buyback process will continue until all ICO and Private equity issued GXS (34,510,000) destroyed. The first buyback will proceed in Dec, 2017, then every 3 months. Second year, the buyback will proceed every 2 months. Third year, the buyback will proceed every month. Buyback account: null-account, one could use blockchain explorer to monitor this procedure.
+
+### **VIII.GXChain team**
+
+#### **Minqiang Huang** Founder and Chief Executive officer
+
+Minqiang has over 10 years experience in data exchange, financial technology, and blockchain, he dived into cryptocurrency in 2012, and initiated several projects since then. He used to be CTO at Hakim Unique Internet Co Ltd (SHE:300300), and Director at financial services of HAKIM UNIQUE. He received his bachelor in computer science at Shandong University of Science and Technology, He received his master in management at Hong Kong Finance and Economics College. Besides blockchain, Minqiang is interested in ultramarathon, trail running, and mountain biking.
+
+#### **Guojun Tu** Co-founder and Vice President
+
+Guojun was a senior executive at 3 public traded IT company, he is a serial entrepreneur, who had more than 21 years’ experience in the field of information security, payment, and IT. Guojun received his bachelor degree in computer science at Hunan Univeristy.
+
+#### **Cheng Wang** Chief Technology Officer
+
+Cheng is a data expert, proficients in data collection, cleaning, machine learning and mining. He used to work as a full stack engineer at 51.com. Before 51 he worked at treefinance.com, and Vobile Info Tech Co., Ltd. as a core developer.
+
+#### **Ruosong Xu** Chief Marketing Officer
+
+Ruosong used to work at Huawei Technologies, China Mobile, and Tongdun. He is an expert in credit risk control.
+
+#### **Xiaopeng Xu** Operations Director
+
+Xu has 6 years experience of sales and marketing. He used to be marketing project manager at ZheJiang Media Group, Simei Media (SHE: 002712), and NetEase, Inc. (NASDAQ: NTES)
+
+#### **Liyu Wu** Product manager
+
+Liyu used to work as a senior product manager at NetEase,Inc.(NASDAQ: NTES), before NetEase he worked at Hithink Flush Information Network Co Ltd(SHE: 300033) and weidai.com.cn as product designer. He experienced in product management for both customer and business application.
+
+#### **Xin Cai** Operations Manager
+
+Xin used to be oversea technology manager at a fortune 500 company, she is proficient in Japanese, English and Korean. Currently she is responsible for business development of GXB data exchange. Xin received her master degree in wireless communication at Osaka University.
+
+#### **Haoxiang Lan** Full stack Engineer, Data Exchange Product Director
+
+Haoxiang is an expert in Node.js, iOS, frontend/backend development. He is experienced in blockchain development, especially for application layer. He used to work at 51.com and treefinance.com as frontend engineer. Together with Cheng Wang, he developed a unique data crawling method for backend/frontend interaction, which has been widely imitated by competitors.
+
+#### **Junjie Zhang** Full stack engineer, UI design, Front-end/back-end web development
+
+Junjie proficient in node.js, python. He used to lead front-end development of several renowned fintech companies in China.
+
+#### **Liting Zhu** Blockchain developer
+
+BS in Mathematics, MS in Computer Science, Proficient in P2P web development, C/C++, Python, Shell, he used to be core developer at Vobile Info Tech Co., Ltd.
+
+#### **Jiahua Tu** Blockchain developer
+
+Jiahua used to be cybersecurity project manager and core developer at Hangzhou Hikvision Digital Technology Co., Ltd., yielding multiple upgrades of the security platform.
+
+#### **Lei Xu** Blockchain developer
+
+Lei is a full stack engineer, who proficient in PHP, Node.js, Python. He experienced in cross end developing and data visualization product developing. Lei used to work as a core developer at ZhejiangDailyMedia and tops001.com.
+
+#### **Jun Yao** Backend engineer
+
+As a JAVA engineer, Jun is used to work at treefinance.com as a core developer, he is proficient in data collection, data mining, and data analysis.
+
+#### **Dongming Shen** Backend engineer, JAVA expert, Android system developer
+
+Dongming used to work at ddyc.com as core developer, he is an expert in App development for Android OS.
+
+
+#### **Diwu Ye** Backend engineer
+
+Diwu has abundant experience for data modeling, he developed data collection service with component-based approach.
+

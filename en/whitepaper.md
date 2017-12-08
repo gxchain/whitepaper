@@ -140,10 +140,15 @@ GXShares (GXS) is the cryptocurrency on GXChain, issued by GXB team. GXS has the
 **GXS Token distribution**
 
 •	Total supply: 100,000,000.
+
 •	Circulating supply: 40,510,000.
+
 •	ICO amount: 24,510,000.
+
 •	Private equity distributed amount: 10,000,000.
+
 •	GXB foundation: 51,000,000.
+
 •	GXS hold by GXB foundation is limited for circulation, released 6,000,000 for the first year, the funds will be used for hiring, community development, marketing, and business development, and will release for maximum 5,000,000 annually until total supply amount reached. 
 
 **GXS Buyback**

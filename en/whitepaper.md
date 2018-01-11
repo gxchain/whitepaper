@@ -101,7 +101,7 @@ We made GXChain code open to public at [https://github.com/gxchain](https://gith
 
 #### **VI.Application structure**
 
-![](/assets/aa2.png)
+![](/assets/gxsproduct.png)
 
 ### **1.For individual**
 
@@ -131,7 +131,7 @@ For more details and events for developers, visit [https://forum.gxb.io/](https:
 
 #### **VII.GXC and GXS**
 
-GXC is for companies and individuals enrolled at data exchange to trade data. The conversion rate is always 1 GXC equals 1 CNY.   
+GXC is for companies and individuals enrolled at data exchange to trade data. The conversion rate is always 1 GXC equals 1 CNY.  
 GXShares \(GXS\) is the cryptocurrency on GXChain, issued by GXB team. GXS has the following values:  
 •    GXS is the unique token on GXChain, it would be consumed/burned for app development, certification, and service will cost.  
 •    GXB team will use 10% of the income from Data Exchange to buyback and destroy GXS every 3 months. One can expect data exchange would yield more income as more companies and data sources employ the exchange.  

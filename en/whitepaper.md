@@ -23,7 +23,7 @@ Moreover, the second application based on GXChain, GXB Decentralized App \(Dapp\
 #### **Consensus algorithm**
 
 GXChain is using delegate proof of stake\(DPoS\) for bookkeeping on blockchain and proof of credit share\(PoCS\) for data exchange consensus.  
-DPoS is originated from Graphene,
+DPoS is originated from Graphene, it is an alternative consensus mechanism that requires coin holders to vote for “delegates”, who are then responsible for validating transactions and maintaining the blockchain. In DPoS, stakeholders elect what are known as witnesses. Witnesses are responsible and rewarded for generating blocks which are then added to the blockchain. DPoS is an alternative to the more commonly known, Proof-of-Stake model which requires miners to put up a stake in a cryptocurrency in-order for them to be able to validate transactions.
 
 PoCS, is a consensus algorithm developed by GXB team, aiming to solve the imbalance of exchange of data between big companies and small companies. Each PoCS score of alliance members will be calculated when they finished exchanging of data. In other words, PoCS score is based on frequency of transaction, and the score will contribute to the transaction fee. Members with lower PoCS score will pay more transaction fee for the data, while members with higher score will spend less on transaction fee.
 

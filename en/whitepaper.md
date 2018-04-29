@@ -157,31 +157,38 @@ GXS is utility token on GXChain. GXS has the following application scenarios:
 
 ### **VIII.GXChain team**
 
-#### **Minqiang Huang** Founder and Chief Executive officer
+#### **Minqiang Huang** 
+Founder and Chief Executive officer
 
 Minqiang has over 10 years experience in data exchange, financial technology, and blockchain, he dived into cryptocurrency in 2012, and initiated several projects since then. He used to be CTO at Hakim Unique Internet Co Ltd \(SHE:300300\), and Director at financial services of HAKIM UNIQUE. He received his bachelor in computer science at Shandong University of Science and Technology, He received his master in management at Hong Kong Finance and Economics College. Besides blockchain, Minqiang is interested in ultramarathon, trail running, and mountain biking.
 
-#### **Guojun Tu** Co-founder and Vice President
+#### **Guojun Tu** 
+Co-founder and Vice President
 
 Guojun was a senior executive at 3 public traded IT company, he is a serial entrepreneur, who had more than 21 years’ experience in the field of information security, payment, and IT. Guojun received his bachelor degree in computer science at Hunan University.
 
-#### **Cheng Wang** Chief Technology Officer
+#### **Cheng Wang** 
+Chief Technology Officer
 
 Cheng is a data expert, proficients in data collection, cleaning, machine learning and mining. He used to work as a full stack engineer at 51.com. Before 51 he worked at treefinance.com, and Vobile Info Tech Co., Ltd. as a core developer.
 
-#### **Ruosong Xu** Chief Marketing Officer
+#### **Ruosong Xu** 
+Chief Marketing Officer
 
 Ruosong used to work at Huawei Technologies, China Mobile, and Tongdun. He is an expert in credit risk control.
 
-#### **Xiaopeng Xu** Operations Director
+#### **Xiaopeng Xu** 
+Operations Director
 
 Xu has 6 years experience of sales and marketing. He used to be marketing project manager at ZheJiang Media Group, Simei Media \(SHE: 002712\), and NetEase, Inc. \(NASDAQ: NTES\)
 
-#### **Liyu Wu** Product manager
+#### **Liyu Wu** 
+Product manager
 
 Liyu used to work as a senior product manager at NetEase,Inc.\(NASDAQ: NTES\), before NetEase he worked at Hithink Flush Information Network Co Ltd\(SHE: 300033\) and weidai.com.cn as product designer. He experienced in product management for both customer and business application.
 
-#### **Xin Cai** Operations Manager
+#### **Xin Cai** 
+Operations Manager
 
 Xin used to be oversea technology manager at a fortune 500 company, she is proficient in Japanese, English, and Korean. Currently, she is responsible for business development at . Xin received her master degree in wireless communication at Osaka University.
 
@@ -193,27 +200,33 @@ Haoxiang is an expert in Node.js, iOS, frontend/backend development. He is exper
 
 Junjie proficient in node.js, python. He used to lead front-end development of several renowned fintech companies in China.
 
-#### **Liting Zhu** Blockchain developer
+#### **Liting Zhu** 
+Blockchain developer
 
 BS in Mathematics, MS in Computer Science, Proficient in P2P web development, C/C++, Python, Shell, he used to be core developer at Vobile Info Tech Co., Ltd.
 
-#### **Jiahua Tu** Blockchain developer
+#### **Jiahua Tu** 
+Blockchain developer
 
 Jiahua used to be cybersecurity project manager and core developer at Hangzhou Hikvision Digital Technology Co., Ltd., yielding multiple upgrades of the security platform.
 
-#### **Lei Xu** Blockchain developer
+#### **Lei Xu** 
+Blockchain developer
 
 Lei is a full stack engineer, who proficient in PHP, Node.js, Python. He experienced in cross end developing and data visualization product developing. Lei used to work as a core developer at ZhejiangDailyMedia and tops001.com.
 
-#### **Jun Yao** Backend engineer
+#### **Jun Yao** 
+Blockchain developer
 
 As a JAVA engineer, Jun is used to working at treefinance.com as a core developer, he is proficient in data collection, data mining, and data analysis.
 
-#### **Dongming Shen** Backend engineer, JAVA expert, Android system developer
+#### **Dongming Shen**
+Blockchain developer
 
 Dongming used to work at ddyc.com as a core developer, he is an expert in App development for Android OS.
 
-#### **Diwu Ye** Backend engineer
+#### **Diwu Ye** 
+Blockchain developer
 
-Diwu has abundant experience for data modeling, he developed data collection service with component-based approach.
+Diwu is a backend engineer, he has abundant experience for data modeling, he developed data collection service with component-based approach.
 

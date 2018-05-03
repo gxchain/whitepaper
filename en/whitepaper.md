@@ -141,26 +141,41 @@ The token hold by GXS foundation is frozen at the time of initial coin offering 
 
 
 GXS has the following values:
+
 • GXS would be consumed for app development, certification, and services on GXChain.
+
 • GXS could be used as the ballot for voting witnesses.
+
 • GXS is payment for using applications at the GXChain ecosystem.
 
 **GXS business model**
-GXS is the essential media to connect businesses, customers, and developers. It has the following applications.
 
-**Customers:**
+GXS is the essential media to connect businesses, customers, and developers. It has the following applications：
+
+**To Customers**
+
 • GXS can be mined at Blockcity, it is a way for user incentive.
+
 • GXS can be acquired by finishing quests and tasks.
+
 • GXS can be rewarded for contributions at GXChain community.
+
 • GXS can be acquired/consumed by peer to peer data transactions.
+
 • GXS can be consumed by using services at Blockcity.
+
 • GXS can be consumed by using blockchain as a service (BaaS) on GXChain.
+
 • GXS can be used for payment third party applications.
 
-**Developers:**
+**To Developers**
+
 • GXS can be rewarded for contributions at GXChain community, including bug bounty program.
+
 • Developers can deploy their applications on GXChain, and customers using GXS as a payment method for using/buying applications.
+
 • GXS can be consumed by using blockchain as a service (BaaS) on GXChain.
+
 • GXS is required for developer registration. 
 
 ### **VIII.GXChain team**

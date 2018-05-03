@@ -130,7 +130,7 @@ GXChain supports app development using opened API, including data exchange, BaaS
 For more details and events for developers, visit [https://forum.gxb.io/](https://forum.gxb.io/)
 
 #### **VII. GXS**
-GXS is the utility token on GXChain, issued by GXS Foundation Ltd. All data services on GXChain will be settled by GXS.
+GXS is the **utility token** on GXChain, issued by GXS Foundation Ltd. All data services on GXChain will be settled by GXS.
 
 • Total supply: 100,000,000
 
@@ -144,7 +144,7 @@ GXS is the utility token on GXChain, issued by GXS Foundation Ltd. All data serv
 
 • GXS foundation: 51,000,000
 
-The token hold by GXS foundation is frozen at the time of initial coin offering and will unfreeze 6,000,000 for the first year. Start from the second year, the unfrozen amount will be 5,000,000. The fund is for hiring, consulting, business development, and marketing activities. GXS foundation account is open to the public, one can check through GXChain block explorer.
+The token hold by GXS foundation is frozen at the time of initial coin offering and will unfreeze 6,000,000 for the first year. Start from the second year, the unfrozen amount will be 5,000,000. The fund is for hiring, consulting, business development, and marketing activities. GXS foundation account is open to the public for supervision, one can check through GXChain block explorer.
 
 
 GXS has the following values:

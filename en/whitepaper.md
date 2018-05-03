@@ -132,12 +132,19 @@ For more details and events for developers, visit [https://forum.gxb.io/](https:
 #### **VII. GXS**
 GXS is the utility token on GXChain, issued by GXS Foundation Ltd. All data services on GXChain will be settled by GXS.
 
-Total supply: 100,000,000
-ICO amount: 39,000,000, actual distribution amount is 24,510,000, we allocate 5,000,000 to Blockcity mining pool for incentive and 9,490,000 for developer support.
-Private equity distributed amount: 10,000,000
-GXS foundation: 51,000,000
-The token hold by GXS foundation is frozen at the time of initial coin offering and will unfreeze 6,000,000 for the first year. Start from the second year, the unfrozen amount will be 5,000,000. The fund is for hiring, consulting, business development, and marketing activities. GXS foundation account is open to the public, one can check through GXChain block explorer.
+• Total supply: 100,000,000
 
+• ICO amount: 24,510,000
+
+• Private equity distributed amount: 10,000,000
+
+• Blockcity mining pool: 5,000,000  
+
+• Community developer support: 9,490,000
+
+• GXS foundation: 51,000,000
+
+The token hold by GXS foundation is frozen at the time of initial coin offering and will unfreeze 6,000,000 for the first year. Start from the second year, the unfrozen amount will be 5,000,000. The fund is for hiring, consulting, business development, and marketing activities. GXS foundation account is open to the public, one can check through GXChain block explorer.
 
 
 GXS has the following values:

@@ -6,7 +6,7 @@ With the rapid development of internet and information technology, the speed of 
 
 Data is the most important means of production in the future, not only in a giant scale but continuously change with the evolution of human activity. Data is the key for us to understand business and society, which is indispensable for most industries. The blockchain is one of the inevitable and fundamental technology in the future, building an “internet of value” that could be maintained and participated by everyone. As a trusted internet, blockchain is capable of minimizing the cost of data transfer and exchange.
 
-**The combination of data, the most valuable resource, and blockchain, an essential technology in the future, could discharge huge business and society value, which establishes the mission and vision our team. **
+**The combination of data, the most valuable resource, and blockchain, an essential technology in the future, could discharge huge business and society value, which establishes the mission and vision our team.**
 
 We have been building several products based on blockchain and data. As the cornerstone, GXChain combined big data and blockchain. The aim of GXChain is to build a trustworthy and all around applicable data exchange network, enabling data from every aspects to flow, circulate, and exchange efficiently, saving them from silo and monopoly, and facilitating them to provide more for our life.
 
@@ -129,31 +129,61 @@ GXChain supports app development using opened API, including data exchange, BaaS
 
 For more details and events for developers, visit [https://forum.gxb.io/](https://forum.gxb.io/)
 
-#### **VII.GXC and GXS**
+#### **VII. GXS**
+GXS is the **utility token** on GXChain, issued by GXS Foundation Ltd. All data services on GXChain will be settled by GXS.
 
-GXC is for companies and individuals enrolled at data exchange to trade data. The conversion rate is always 1 GXC equals 1 CNY.  
-GXS is utility token on GXChain. GXS has the following application scenarios:  
-•    GXS is the unique utility token on GXChain, it would be consumed/burned for app development, verification, and services.
-•    10% of the income from Data Exchange will be used to buyback and destroy GXS every 3 months. One can expect data exchange would yield more income as more companies and data sources employ the exchange. 
-•    GXS could be used for voting witnesses on GXChain.
+• Total supply: 100,000,000
 
-**GXS Token distribution**
+• ICO amount: 24,510,000
 
-•    Total supply: 100,000,000.
+• Private equity distributed amount: 10,000,000
 
-•    Circulating supply: 60,000,000.
+• Blockcity mining pool: 5,000,000  
 
-•    ICO amount: 39,000,000.
+• Community developer support: 9,490,000
 
-•    Private equity distributed amount: 10,000,000.
+• GXS foundation: 51,000,000
 
-•    GXB foundation: 51,000,000.
+The token hold by GXS foundation is frozen at the time of initial coin offering and will unfreeze 6,000,000 for the first year. Start from the second year, the unfrozen amount will be 5,000,000. The fund is for hiring, consulting, business development, and marketing activities. GXS foundation account is open to the public for supervision, one can check through GXChain block explorer.
 
-•    GXS hold by GXB foundation is limited for circulation, released 6,000,000 for the first year, the funds will be used for hiring, community development, marketing, and business development, and will release for maximum 5,000,000 annually until total supply amount reached.
 
-**GXS Buyback**
+GXS has the following values:
 
-10% of the income from Data Exchange will be used to buyback and destroy GXS every 3 months. We will make sure this procedure transparent and open, one could check it through blockchain explorer, and the buyback process will continue until all ICO and Private equity issued GXS \(34,510,000\) destroyed. The first buyback will proceed in Dec, 2017, then every 3 months. Second year, the buyback will proceed every 2 months. Third year, the buyback will proceed every month. Buyback account: null-account, one could use blockchain explorer to monitor this procedure.
+• GXS would be consumed for app development, certification, and services on GXChain.
+
+• GXS could be used as the ballot for voting witnesses.
+
+• GXS is payment for using applications at the GXChain ecosystem.
+
+**GXS business model**
+
+GXS is the essential media to connect businesses, customers, and developers. It has the following applications：
+
+**To Customers**
+
+• GXS can be mined at Blockcity, it is a way for user incentive.
+
+• GXS can be acquired by finishing quests and tasks.
+
+• GXS can be rewarded for contributions at GXChain community.
+
+• GXS can be acquired/consumed by peer to peer data transactions.
+
+• GXS can be consumed by using services at Blockcity.
+
+• GXS can be consumed by using blockchain as a service (BaaS) on GXChain.
+
+• GXS can be used for payment third party applications.
+
+**To Developers**
+
+• GXS can be rewarded for contributions at GXChain community, including bug bounty program.
+
+• Developers can deploy their applications on GXChain, and customers using GXS as a payment method for using/buying applications.
+
+• GXS can be consumed by using blockchain as a service (BaaS) on GXChain.
+
+• GXS is required for developer registration. 
 
 ### **VIII.GXChain team**
 

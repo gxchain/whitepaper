@@ -36,8 +36,6 @@ Developer is the most important part in the “CBD” ecosystem. Applications de
 
 ### **III.GXChain**
 
-#### **Introduction**
-
 GXChain is a public blockchain for data exchange, developed by GXB team. GXChain is the foundation of GXB data exchange, supporting the exchange of data in a million times per second. In addition, GXChain also supports app development. Apps developed on GXChain will be greatly supported by bigdata among various fields, which set GXChain apart from other public blockchains. Apps developed on GXChain would be real life oriented.
 
 GXS data exchange, the first to business application based on GXChain, commercialized on September 24th, 2017, proving the commercial feasibility of GXChain. To date, data transaction on GXB data exchange platform passed 700 million times.
@@ -127,31 +125,6 @@ We made GXChain code open to the public at [https://github.com/gxchain](https://
 
 ![](/assets/gxsproduct.png)
 
-### **1.To Customers**
-
-### **Wallet**
-
-GXS Wallet is for asset management, we developed wallets for PC, mobile, web browser, and command line. For PC, Windows 32/64 Bit, Linux, and Mac OS supported. For mobile, IOS and Android supported, besides digital asset storage, the mobile wallet supports real-time price display. Wallet on browser is for online usage, supporting all functions compared with PC wallet. Command line wallet is more sophisticated that tailored for advanced user or developer.
-
-### **DApp**
-
-Blockcity(Dapp) is for personal credit management. It could realize face to face credit verification and personal identiry management. After authorization, one can check their credit information via GXS data exchange to easily achieve face to face credit evaluation. This application could broadly apply to recruiting, dating, renting, lending, over the counter trading etc.
-
-### **2.To Business**
-
-### **Decentralized data exchange**
-
-The decentralized data exchange is a consortium blockchain. Features data uncached, copyright protection, privacy protection, fraud-proof, and bilateral anonymity. The data marketplace could be applied to multiple fields, including loans, banks, insurance, healthcare, credit bureau, logistics etc. The data exchange solves various pain points in above industry for data transfer, circulation, and exchange in a decentralized and safely way, releasing the value of data. 
-
-### **DApp enterprise version**
-
-Personal credit verification making GXB Dapp suitable for job interview, renting, second-hand transactions, and over the counter transactions. We planned to develop a web based software for enterprises to verify credit information from individuals.
-
-### **3.For Developers**
-
-GXChain supports app development using opened API, including data exchange, BaaS, Cli-wallet, statistical analysis, and blockchain explorer. Data exchange API allows developers to use all interface from data exchange after installing GXB-BOX. BaaS API is for data storage, object-based storage, and verification, Cli-wallet API enables usage of command-line wallet, which could visit ledger and transfer directly. Statistical analysis API helps to develop further computing and visualization functions. Blockchain explorer API enable checking various information, including block, transaction, account information, and support developers to using web and API manners [https://block.gxb.io/\#/](https://block.gxb.io/#/).
-
-For more details and events for developers, visit [https://forum.gxb.io/](https://forum.gxb.io/)
 
 #### **IV. GXS**
 GXS is the **utility token** on GXChain, issued by GXS Foundation Ltd. All data services on GXChain will be settled by GXS.

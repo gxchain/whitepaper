@@ -121,9 +121,26 @@ We made GXChain code open to the public at [https://github.com/gxchain](https://
 
 ![](/assets/gxsaa.png)
 
-#### **Application structure**
+#### **GXChain development kit**
 
 ![](/assets/gxsproduct.png)
+
+GXChain support developers to use modularized services for application development, including DES, BaaS, Cli-API, Statistical Analysis API, and Blockchain Explorer API.
+
+#### Data Exchange Service (DES)
+A service for data exchange, based on GXChain. DES support smart contract, which supports tri-party bookkeeping agreement, and a peer to peer data exchange protocol based on IPFS. The protocol provides reliable, safely, high-throughput data exchange service, and will automatically record the history of data exchange. One can use DES for permanent proof of existence, and data copyright registration.
+
+#### Blockchain as a Service (BaaS)
+Encapsulation a lot blockchain system API to provide simple and handy services. Currently, BaaS supports data storage, proof of existence and verification. Developers can store application data on GXChain, realizing openness of data accounting.
+
+#### Cli-API
+Enables usage of command-line wallet, which could visit ledger and process transaction directly.
+
+#### Statistical analysis API
+Support statistical analysis of GXChain ledger, facilitate developing data visualization functions.
+
+#### Blockchain explorer API
+Enable checking various information, including block, transaction, account information, and support developers to using web and API manners https://block.gxb.io/#/.
 
 
 #### **IV. GXS**

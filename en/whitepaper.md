@@ -199,7 +199,7 @@ GXS is the essential media to connect businesses, customers, and developers. It 
 
 • GXS is required for developer registration. 
 
-### **VIII.GXChain team**
+### **V.GXChain team**
 
 #### **Minqiang Huang** 
 Founder and Chief Executive officer

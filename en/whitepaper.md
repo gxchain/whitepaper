@@ -10,7 +10,31 @@ Data is the most important means of production in the future, not only in a gian
 
 We have been building several products based on blockchain and data. As the cornerstone, GXChain combined big data and blockchain. The aim of GXChain is to build a trustworthy and all around applicable data exchange network, enabling data from every aspects to flow, circulate, and exchange efficiently, saving them from silo and monopoly, and facilitating them to provide more for our life.
 
-### **II.GXChain**
+### **II.The “CBD” Ecosystem**
+
+Leverage blockchain technology and current pain points of the society, we designed a new business model – the CBD ecosystem, “C” refer to customer, “B” refer to “business”, and “D” refer to “developer”.
+
+### Blockcity – a mobile app designed for the customer (To C)
+
+Blockcity is the mobile app based on GXChain, it is designed for assisting data management and sharing. Blockcity helps users to take control of their data, it has a lot of incentive to encourage users to authorize their identity and information. Blockcity does not cache data, and protect the privacy of the users. 
+
+### Decentralized data marketplace (To B)
+
+The data marketplace provides an alternative to traditional data transactions, including data trading through middlemen or underground data transaction. The decentralized data marketplace has many advanced features: including data uncached, privacy protection, copyright protection, fraud prevention, and bilateral anonymity support. Currently, the data marketplace providing services for various industries, including fintech startups, loans, peer-to-peer lending, banks, governments, insurance companies, healthcare, and logistics. The marketplace commercialized on September 24th, 2017. To date, revenue of the marketplace passed 7 million USD. 
+
+### GXChain – a public blockchain for developers (To D)
+
+GXChain is a permissionless blockchain, which greatly supports all kinds of app development. Comparing to other public chains, GXChain not only supports smart contract, blockchain as a service (BaaS) but also provides many unique services, including ID verification, multi-dimensional data, KYC, and swift login. GXChain currently offers 100,000 TPS, which can accommodate most business applications. GXChain also supports new assets issuance.
+
+### Connect customers, businesses, and developers with data
+
+Blockcity is designed for general public, which is the passport for the blockchain world. After real name verification, a unique G-ID will be generated for using services at Blockcity. Users can consolidate their data through third-party platform authorization and data exchange service (DES), enabling users to purchase their data from decentralized data marketplace. The more abundant of data category that users have, the more they could earn from the incentive. In addition, data that generated from application usage also belongs to users. If business or company want to check users’ data, like credit information, they need to acquire the authorization before checking their data. To sum up, Blockcity facilitates customers to profit from the usage of their data or information. 
+
+The decentralized data marketplace originally designed for B2B, now we expand the scope from B2B to B2B, B2C, C2B, and C2C via data exchange service. As a result, individual used to be a data generator, now they can act as a data seller.
+
+Developer is the most important part in the “CBD” ecosystem. Applications developed on GXChain will become a critical part of data generation and consumption. Both developers and users could profit from the usage of the application. Upon agreement of profit distribution, developers can help users monetize their data and information while earning from their usage.
+
+### **III.GXChain**
 
 #### **Introduction**
 
@@ -56,7 +80,7 @@ calculate\_pocs is the function to calculate PoCS score.
 
 scale\_fee is the function to calculate transaction fee.
 
-#### **III.Reasons to choose DPoS consensus algorithm**
+#### **Reasons to choose DPoS consensus algorithm**
 
 Currently, most projects employed PoW and PoS as their consensus algorithm, and some projects used modified BFT. Bitcoin, the most successful cryptocurrency based on PoW, demonstrating the stability and fairness of PoW algorithm. However, bitcoin is often criticized for its energy-intensive mining activity. Billions of Dollars are investing to perform calculation SHA256 for maintaining the network, and besides that, no other utilization was involved in this activity. In addition, current transaction speed of bitcoin is 5 TPS, limited by its controversial block size, and 25 TPS for another famous project, Ethereum, hindered by maximum GAS of single block. These numbers are far from VISA and Mastercard, that able to deal with thousands of transactions per second.
 
@@ -66,7 +90,7 @@ Under PoS Consensus, people tend to lock coins for a long time to get more retur
 
 DPoS could inherently overcome drawbacks of PoW and PoS in processing efficiency. DPoS algorithm requires verification of current block has been signed by a trusted node before generating next block. DPoS employs a committee mechanism by choosing trustable nodes\(witnesses\)to represent other token holders for bookkeeping. Witnesses are required to remain online for a long time, solving the block generation delay problems occurred on blockchains based on PoS. DPoS is capable of 10000-100000 TPS, depending on the network quality, which is suitable for industrial applications. GXB data exchange platform requires high transaction frequency and network stability, making DPoS is an exclusive choice.
 
-#### **IV.Features of GXChain**
+#### **Features of GXChain**
 
 **High-performance and expandable**
 
@@ -95,11 +119,11 @@ GXChain allows individuals and companies to create and issue their own tokens.
 
 We made GXChain code open to the public at [https://github.com/gxchain](https://github.com/gxchain)
 
-#### **V.Technical structure**
+#### **Technical structure**
 
 ![](/assets/gxsaa.png)
 
-#### **VI.Application structure**
+#### **Application structure**
 
 ![](/assets/gxsproduct.png)
 
@@ -129,7 +153,7 @@ GXChain supports app development using opened API, including data exchange, BaaS
 
 For more details and events for developers, visit [https://forum.gxb.io/](https://forum.gxb.io/)
 
-#### **VII. GXS**
+#### **IV. GXS**
 GXS is the **utility token** on GXChain, issued by GXS Foundation Ltd. All data services on GXChain will be settled by GXS.
 
 • Total supply: 100,000,000

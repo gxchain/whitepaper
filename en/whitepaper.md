@@ -144,7 +144,7 @@ Enable checking various information, including block, transaction, account infor
 
 
 #### **IV. GXS**
-GXS is the **utility token** on GXChain, issued by GXS Foundation Ltd. All data services on GXChain will be settled by GXS.
+GXS is the **utility token** on GXChain, issued by GXS Foundation Ltd. Any payment for using applications at the GXChain ecosystem will be settled by GXS.
 
 • Total supply: 100,000,000
 
@@ -159,45 +159,34 @@ GXS is the **utility token** on GXChain, issued by GXS Foundation Ltd. All data 
 • GXS foundation: 51,000,000
 
 The token hold by GXS foundation is frozen at the time of initial coin offering and will unfreeze 6,000,000 for the first year. Start from the second year, the unfrozen amount will be 5,000,000. The fund is for hiring, consulting, business development, and marketing activities. GXS foundation account is open to the public for supervision, one can check through GXChain block explorer.
-
-
-GXS has the following values:
-
-• GXS would be consumed for app development, certification, and services on GXChain.
-
-• GXS could be used as the ballot for voting witnesses.
-
-• GXS is payment for using applications at the GXChain ecosystem.
+https://block.gxb.io/#/
 
 **GXS business model**
 
-GXS is the essential media to connect businesses, customers, and developers. It has the following applications：
+GXS is the essential media to connect businesses, customers, and developers, it is circulating for multiple services on GXChain, decentralized data marketplace, and Blockcity. Any payment for using applications at the GXChain ecosystem will be settled by GXS.
 
-**To Customers**
+In detail, GXS has the following utility values:
 
-• GXS can be mined at Blockcity, it is a way for user incentive.
+• "Mining" at Blockcity dApp, as user incentive
 
-• GXS can be acquired by finishing quests and tasks.
+• Incentive users to finish quests and tasks on Blockcity dApp
 
-• GXS can be rewarded for contributions at GXChain community.
+• The reward for contributions at GXChain community, such as bug bounty program
 
-• GXS can be acquired/consumed by peer to peer data transactions.
+• Ballot for voting witnesses, who in charge of "mining" on GXChain
 
-• GXS can be consumed by using services at Blockcity.
+• Fees for P2P data transactions
 
-• GXS can be consumed by using blockchain as a service (BaaS) on GXChain.
+• Fees for using services at Blockcity
 
-• GXS can be used for payment third party applications.
+• Fees for using GXChain blockchain as a service (BaaS)
 
-**To Developers**
+• Developers can deploy their applications on GXChain, and customers using GXS as a payment method for using/buying applications
 
-• GXS can be rewarded for contributions at GXChain community, including bug bounty program.
+• Fees for developer registration
 
-• Developers can deploy their applications on GXChain, and customers using GXS as a payment method for using/buying applications.
 
-• GXS can be consumed by using blockchain as a service (BaaS) on GXChain.
 
-• GXS is required for developer registration. 
 
 ### **V.GXChain team**
 

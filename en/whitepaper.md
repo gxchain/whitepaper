@@ -64,7 +64,7 @@ if ((total_sell + total_buy) >= pocs_threshold) {
 }
 ```
 
-pocs is the PoCS score, alliance members will have their unique PoCS score.
+pocs is the PoCS score, and members will have their unique PoCS score.
 
 total\_sell is the frequency of data sold by the member.
 
@@ -80,13 +80,13 @@ scale\_fee is the function to calculate transaction fee.
 
 #### **Reasons to choose DPoS consensus algorithm**
 
-Currently, most projects employed PoW and PoS as their consensus algorithm, and some projects used modified BFT. Bitcoin, the most successful cryptocurrency based on PoW, demonstrating the stability and fairness of PoW algorithm. However, bitcoin is often criticized for its energy-intensive mining activity. Billions of Dollars are investing to perform calculation SHA256 for maintaining the network, and besides that, no other utilization was involved in this activity. In addition, current transaction speed of bitcoin is 5 TPS, limited by its controversial block size, and 25 TPS for another famous project, Ethereum, hindered by maximum GAS of single block. These numbers are far from VISA and Mastercard, that able to deal with thousands of transactions per second.
+Currently, most projects employed PoW and PoS as their consensus algorithm, and some projects used modified BFT. Bitcoin, the most successful cryptocurrency based on PoW, demonstrating the stability and fairness of PoW algorithm. However, people often criticize bitcoin for its energy-intensive mining activity. Billions of Dollars are investing in performing calculation SHA256 for maintaining the network, besides that, no other application involved in this activity. In addition, current transaction speed of bitcoin is 5 TPS, limited by its controversial block size, and 25 TPS for another famous project, Ethereum, hindered by maximum GAS of single block. These numbers are far from VISA and Mastercard, that able to deal with thousands of transactions per second.
 
-Peercoin and NXT brought two relatively matured blockchain based on PoS algorithm, featured energy friendly compared with PoW projects. Achieving PoS consensus by introducing the coin age theory. Instead of buying expensive mining equipment, PoS algorithm enables more people to attend bookkeeping. The computing power is correlated with the holding tokens and holding time. One hold more tokens for more time, the more possibility of generating blocks he will be.  Once he generates a new block, the number of whose coin age will be initialized to zero. Then a new loop starts.
+Peercoin and NXT brought two relatively matured blockchain based on PoS algorithm, featured energy friendly compared with PoW projects. PoS consensus mechanism was realized by using the coinage. Instead of buying expensive mining equipment, PoS enables more people to participate in bookkeeping. The computing power is correlated with the holding tokens and holding time. One holds more tokens for more time, the more possibility of generating blocks he will be. Once he generates a new block, the coinage will initialize to zero. Then a new loop starts.
 
-Under PoS Consensus, people tend to lock coins for a long time to get more return, limiting coin supply and circulation, which is adverse to the price stability. Moreover, it is also possible that the majority token is held by a small portion of people, making the whole blockchain network more centralized. Compared to the PoW consensus algorithm, the cost of being dishonest is much lower, as a result, it demands more mechanism for preventing fork/double spending attacks, as well as realizing consensus.  Normally blockchain network with PoS algorithm could generate 12 transactions per second, however, due to consensus issues and network delay, it takes 60 seconds to finish broadcasting reliable blocks. In the long term, speed for generating new blocks is far lower than network communication and broadcasting, as a result, blockchains based on PoS have to limit the speed of block generation to keep the stability of main net.
+Under PoS Consensus, people tend to lock coins for a long time to get more return, limiting coin supply and circulation, which is adverse to the price stability. Moreover, it is also possible that the majority token is held by a small portion of people, making the whole blockchain network more centralized. Compared to the PoW consensus algorithm, the cost of being dishonest is much lower, as a result, it demands more mechanism for preventing fork/double spending attacks, as well as realizing consensus. Usually, PoS based blockchain could generate 12 transactions per second. however, due to consensus issues and network latency, it takes 60 seconds to finish broadcasting reliable blocks. In the long term, speed for generating new blocks is much lower than network communication and broadcasting; as a result, PoS based blockchains have to limit the rate of block generation to keep the stability of mainnet.
 
-DPoS could inherently overcome drawbacks of PoW and PoS in processing efficiency. DPoS algorithm requires verification of current block has been signed by a trusted node before generating next block. DPoS employs a committee mechanism by choosing trustable nodes\(witnesses\)to represent other token holders for bookkeeping. Witnesses are required to remain online for a long time, solving the block generation delay problems occurred on blockchains based on PoS. DPoS is capable of 10000-100000 TPS, depending on the network quality, which is suitable for industrial applications. GXB data exchange platform requires high transaction frequency and network stability, making DPoS is an exclusive choice.
+DPoS could inherently overcome drawbacks of PoW and PoS in processing efficiency. DPoS algorithm requires verification of current block that has been signed by a trusted node before generating next block. DPoS employs a committee mechanism by choosing trustable nodes\(witnesses\)to represent other token holders for bookkeeping. Witnesses are required to remain online for a long time, solving the block generation delay problems occurred on blockchains based on PoS. DPoS is capable of 10000-100000 TPS, depending on the network quality, which is suitable for industrial applications. GXB data exchange platform requires high transaction frequency and network stability, making DPoS is an exclusive choice.
 
 #### **Features of GXChain**
 
@@ -96,11 +96,11 @@ GXChain can process 10000-100000 transactions per second, with 3 seconds blockti
 
 **Real-time parameter adjustment**
 
-Instead of a fork to realize change parameters, GXChain can change blocktime, blocksize, transaction fee etc. via voting.
+Instead of a fork to realize change parameters, GXChain can change blocktime, blocksize, transaction fee etc, via voting.
 
 **Supported by big data**
 
-GXB data exchange support data transaction or exchange in multiple industry. Companies and individuals could acquire those data via purchase.
+GXB data exchange support data transaction or exchange in multiple industries. Companies and individuals could acquire those data via purchase.
 
 **Blockchain as a service**  
 GXChain also supports services API, including storage and verification.
@@ -109,9 +109,9 @@ GXChain also supports services API, including storage and verification.
 
 Apps developed on GXChain would get support by numerous data from multiple field on the data exchange
 
-**User-Issued Assets**
+**Crypto asset issuance**
 
-GXChain allows individuals and companies to create and issue their own tokens.
+GXChain is capable of creating and issuing new tokens
 
 **Open source**
 
@@ -131,7 +131,7 @@ GXChain support developers to use modularized services for application developme
 A service for data exchange, based on GXChain. DES support smart contract, which supports tri-party bookkeeping agreement, and a peer to peer data exchange protocol based on IPFS. The protocol provides reliable, safely, high-throughput data exchange service, and will automatically record the history of data exchange. One can use DES for permanent proof of existence, and data copyright registration.
 
 #### Blockchain as a Service (BaaS)
-Encapsulation a lot blockchain system API to provide simple and handy services. Currently, BaaS supports data storage, proof of existence and verification. Developers can store application data on GXChain, realizing openness of data accounting.
+Encapsulation a lot blockchain system API to provide handy and straightforward services. Currently, BaaS supports data storage, proof of existence and verification. Developers can store application data on GXChain, realizing openness of data accounting.
 
 #### Cli-API
 Enables usage of command-line wallet, which could visit ledger and process transaction directly.
@@ -144,7 +144,7 @@ Enable checking various information, including block, transaction, account infor
 
 
 #### **IV. GXS**
-GXS is the **utility token** on GXChain, issued by GXS Foundation Ltd. Any payment for using applications at the GXChain ecosystem will be settled by GXS.
+GXS is the **utility token** on GXChain, issued by GXS Foundation Ltd. GXS is the only payment method for using applications at the GXChain ecosystem.
 
 • Total supply: 100,000,000
 
@@ -156,9 +156,9 @@ GXS is the **utility token** on GXChain, issued by GXS Foundation Ltd. Any payme
 
 • Community developer support: 9,490,000
 
-• GXS foundation: 51,000,000
+• GXS Foundation: 51,000,000
 
-The token hold by GXS foundation is frozen at the time of initial coin offering and will unfreeze 6,000,000 for the first year. Start from the second year, the unfrozen amount will be 5,000,000. The fund is for hiring, consulting, business development, and marketing activities. GXS foundation account is open to the public for supervision, one can check through GXChain block explorer.
+The token hold by GXS foundation is frozen at the time of initial coin offering and will unfreeze 6,000,000 for the first year. Start from the second year; the unfrozen amount will be 5,000,000. The fund is for hiring, consulting, business development, and marketing activities. GXS foundation account is open to the public for supervision, one can check through GXChain block explorer.
 https://block.gxb.io/#/
 
 **GXS business model**
@@ -173,7 +173,7 @@ In detail, GXS has the following utility values:
 
 • The reward for contributions at GXChain community, such as bug bounty program
 
-• Ballot for voting witnesses, who in charge of "mining" on GXChain
+• The ballot for voting witnesses, who in charge of "mining" on GXChain
 
 • Fees for P2P data transactions
 
@@ -193,12 +193,12 @@ In detail, GXS has the following utility values:
 #### **Minqiang Huang** 
 Founder and Chief Executive officer
 
-Minqiang has over 10 years experience in data exchange, financial technology, and blockchain, he dived into cryptocurrency in 2012, and initiated several projects since then. He used to be CTO at Hakim Unique Internet Co Ltd \(SHE:300300\), and Director at financial services of HAKIM UNIQUE. He received his bachelor in computer science at Shandong University of Science and Technology, He received his master in management at Hong Kong Finance and Economics College. Besides blockchain, Minqiang is interested in ultramarathon, trail running, and mountain biking.
+Minqiang has over ten years experience in data exchange, financial technology, and blockchain, he dived into cryptocurrency in 2012 and initiated several projects since then. He used to be CTO at Hakim Unique Internet Co Ltd (SHE:300300), and Director at financial services of HAKIM UNIQUE. He received his bachelor in computer science at Shandong University of Science and Technology. He earned his master in management at Hong Kong Finance and Economics College. Besides blockchain, Minqiang is interested in the ultramarathon, trail running, and mountain biking.
 
 #### **Guojun Tu** 
 Co-founder and Vice President
 
-Guojun was a senior executive at 3 public traded IT company, he is a serial entrepreneur, who had more than 21 years’ experience in the field of information security, payment, and IT. Guojun received his bachelor degree in computer science at Hunan University.
+Guojun was a senior executive at three public traded IT company, he is a serial entrepreneur, who had more than 21 years' experience in the field of information security, payment, and IT. Guojun received his bachelor degree in computer science at Hunan University.
 
 #### **Cheng Wang** 
 Chief Technology Officer
@@ -213,25 +213,25 @@ Ruosong used to work at Huawei Technologies, China Mobile, and Tongdun. He is an
 #### **Xiaopeng Xu** 
 Operations Director
 
-Xu has 6 years experience of sales and marketing. He used to be marketing project manager at ZheJiang Media Group, Simei Media \(SHE: 002712\), and NetEase, Inc. \(NASDAQ: NTES\)
+Xu has six years experience of sales and marketing. He used to be marketing project manager at Zhejiang Media Group, Simei Media \(SHE: 002712\), and NetEase, Inc. \(NASDAQ: NTES\)
 
 #### **Liyu Wu** 
-Product manager
+Product Director
 
-Liyu used to work as a senior product manager at NetEase,Inc.\(NASDAQ: NTES\), before NetEase he worked at Hithink Flush Information Network Co Ltd\(SHE: 300033\) and weidai.com.cn as product designer. He experienced in product management for both customer and business application.
+Liyu used to work as a senior product manager at NetEase, Inc.\(NASDAQ: NTES\), before NetEase, he worked at Hithink Flush Information Network Co Ltd\(SHE: 300033\) and weidai.com.cn as product designer. He experienced in product management for both customer and business application.
 
 #### **Xin Cai** 
 Operations Manager
 
-Xin used to be oversea technology manager at a fortune 500 company, she is proficient in Japanese, English, and Korean. Currently, she is responsible for business development at . Xin received her master degree in wireless communication at Osaka University.
+Xin used to be oversea technology manager at a fortune 500 company, and she is proficient in Japanese, English, and Korean. Currently, she is responsible for operations and business development in Japan. Xin received her master degree in wireless communication at Osaka University.
 
 #### **Haoxiang Lan** Full-stack Engineer, Data Exchange Product Director
 
-Haoxiang is an expert in Node.js, iOS, frontend/backend development. He is experienced in blockchain development, especially for the application layer. He used to work at 51.com and treefinance.com as frontend engineer. Together with Cheng Wang, he developed a unique data crawling method for backend/frontend interaction, which has been widely imitated by competitors.
+Haoxiang is an expert in Node.js, iOS, frontend/backend development. He experiences in blockchain development, especially for the application layer. He used to work at 51.com and treefinance.com as frontend engineer. Together with Cheng Wang, he developed a unique data crawling method for backend/frontend interaction, which has been widely imitated by competitors.
 
 #### **Junjie Zhang** Full-stack engineer, UI design, Front-end/back-end web development
 
-Junjie proficient in node.js, python. He used to lead front-end development of several renowned fintech companies in China.
+Junjie proficient in node.js, python. He used to lead front-end development of several renowned financial technology companies in China.
 
 #### **Liting Zhu** 
 Blockchain developer
@@ -251,7 +251,7 @@ Lei is a full stack engineer, who proficient in PHP, Node.js, Python. He experie
 #### **Jun Yao** 
 Blockchain developer
 
-As a JAVA engineer, Jun is used to working at treefinance.com as a core developer, he is proficient in data collection, data mining, and data analysis.
+As a JAVA engineer, Jun used to working at treefinance.com as a core developer, and he is proficient in data collection, data mining, and data analysis.
 
 #### **Dongming Shen**
 Blockchain developer

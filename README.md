@@ -29,6 +29,8 @@ This version of the whitepaper focuses on the following topics:
 - Illustrated business models of GXC, and its value, generation, and distribution mechanism.
 - Announced the road map of GXChain, which focuses on improving its competitiveness through technical innovation, collaboration, and community governance.
 
+[Read More](https://static.gxb.io/files/GXChain_WhitePaper_v3.0_EN.pdf)
+
 ## 引言
 
 GXChain( 公信链 ) 是一条为全球数据经济服务的基础链，旨在打造可信数据的价值网络。
@@ -46,6 +48,5 @@ GXChain( 公信链 ) 是一条为全球数据经济服务的基础链，旨在�
 - 系统阐述了 GXC 的经济模型、价值、产出及分发机制，明确了 GXC 的价值内涵和成长空间。
 - 公布了 GXChain 后续的技术开发路线图，聚焦主线任务提升 GXChain 在技术上的竞争力，同时便于社区监督开发进度和开发者加入协作。
 
-
-
+[阅读全文](https://static.gxb.io/files/GXChain_WhitePaper_v3.0_CN.pdf)
 

@@ -1,12 +1,16 @@
 # GXChain White Paper
-
-![](./assets/whitepaper-en.jpg)
-
-![](./assets/whitepaper-zh.jpg)
-
-[开始阅读](https://static.gxb.io/files/GXChain_WhitePaper_v3.0_CN.pdf)
-
-[Getting Started](https://static.gxb.io/files/GXChain_WhitePaper_v3.0_EN.pdf)
+<div>
+  <span>
+    <a href="https://static.gxb.io/files/GXChain_WhitePaper_v3.0_CN.pdf">
+      <img width="400px" src='./assets/whitepaper-zh.jpg'/>
+    </a>
+  </span>
+  <span>
+    <a href="https://static.gxb.io/files/GXChain_WhitePaper_v3.0_EN.pdf">
+      <img width="400px" src='./assets/whitepaper-en.jpg'/>
+    </a>
+  </span>
+</div>
 
 ## Abstract
 
